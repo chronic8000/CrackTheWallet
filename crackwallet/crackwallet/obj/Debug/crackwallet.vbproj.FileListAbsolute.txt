@@ -1,0 +1,14 @@
+C:\Users\Jamie\AppData\Local\Temporary Projects\crackwallet\bin\Debug\crackwallet.exe.config
+C:\Users\Jamie\AppData\Local\Temporary Projects\crackwallet\bin\Debug\crackwallet.exe
+C:\Users\Jamie\AppData\Local\Temporary Projects\crackwallet\bin\Debug\crackwallet.pdb
+C:\Users\Jamie\AppData\Local\Temporary Projects\crackwallet\bin\Debug\crackwallet.xml
+C:\Users\Jamie\AppData\Local\Temporary Projects\crackwallet\obj\Debug\crackwallet.Form1.resources
+C:\Users\Jamie\AppData\Local\Temporary Projects\crackwallet\obj\Debug\crackwallet.Resources.resources
+C:\Users\Jamie\AppData\Local\Temporary Projects\crackwallet\obj\Debug\crackwallet.vbproj.GenerateResource.Cache
+C:\Users\Jamie\AppData\Local\Temporary Projects\crackwallet\obj\Debug\crackwallet.exe
+C:\Users\Jamie\AppData\Local\Temporary Projects\crackwallet\obj\Debug\crackwallet.xml
+C:\Users\Jamie\AppData\Local\Temporary Projects\crackwallet\obj\Debug\crackwallet.pdb
+C:\Users\Jamie\Documents\Visual Studio 2012\Projects\crackwallet\crackwallet\bin\Debug\crackwallet.exe.config
+C:\Users\Jamie\Documents\Visual Studio 2012\Projects\crackwallet\crackwallet\obj\Debug\crackwallet.exe
+C:\Users\Jamie\Documents\Visual Studio 2012\Projects\crackwallet\crackwallet\obj\Debug\crackwallet.xml
+C:\Users\Jamie\Documents\Visual Studio 2012\Projects\crackwallet\crackwallet\obj\Debug\crackwallet.pdb
